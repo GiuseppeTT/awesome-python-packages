@@ -1,6 +1,7 @@
 # awesome-python-packages
 
 TODO:
+- flit?: build/publish package
 - cookiecutter: project template
 - poetry: package management
 - pre-commit, isort, black, flake8, mypy: lint, format, type check, etc
