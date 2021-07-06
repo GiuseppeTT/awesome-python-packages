@@ -1,18 +1,30 @@
-# awesome-python-packages
+# Awesome Python Packages
 
-TODO:
-- cookiecutter: project template
- 
- 
-- flit?: build/publish package
-- sphinx:? documentation
-- pytest?: tests
+# TODO
 
+### Project
+- cookiecutter: Project template
+- poetry or pdm: Package management
+- flit **?**: Build/publish package
+- sphinx: Documentation
+- pytest: Test
 
-- poetry: package management
-- pre-commit, isort, black, flake8, mypy: lint, format, type check, etc
-- snakemake?: analysis workflow/pipeline
+### Pre commit
+- pre-commit: Pre commit hook
+- isort: Sort imports
+- black: Format code
+- flake8: Lint
+- mypy: Type check
 
+### Analysis
+- numpy: N-dimensional array
+- pandas: Data frame
+- scipy: Scientific computing
+- matplotlib or **<better alternative>**: Plotting
+- statsmodels: Statistical model
+- scikit-learn: Machine learning
+- snakemake **?**: Workflow/pipeline
 
-- numpy, scipy, pandas, matplotlib, statsmodels, scikit-learn: matrix, data frame, plot, models
-- typer, fastapi: CLI, Web API
+### Interface
+- typer: CLI
+- fastapi: Web API
