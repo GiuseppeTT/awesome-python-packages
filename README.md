@@ -28,3 +28,4 @@
 ### Interface
 - typer: CLI
 - fastapi: Web API
+- streamlit: Web app
