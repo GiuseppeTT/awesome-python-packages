@@ -3,7 +3,7 @@
 # TODO
 
 ### Project
-- cookiecutter: Project template
+- copier or cookiecutter: Project template
 - poetry or pdm: Package management
 - flit **?**: Build/publish package
 - sphinx: Documentation
