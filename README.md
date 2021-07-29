@@ -19,6 +19,7 @@
 ### Analysis
 - numpy: N-dimensional array
 - pandas: Data frame
+- xarray: Multidimensional data frames
 - scipy: Scientific computing
 - matplotlib or **<better alternative>**: Plotting
 - statsmodels: Statistical model
