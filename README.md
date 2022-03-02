@@ -18,10 +18,10 @@
 
 ### Analysis
 - numpy: N-dimensional array
-- pandas: Data frame
+- pandas or **<better alternative, tidypolars?>**: Data frame
 - xarray: Multidimensional data frames
 - scipy: Scientific computing
-- matplotlib or **<better alternative, tidypolars?>**: Plotting
+- matplotlib or **<better alternative>**: Plotting
 - statsmodels: Statistical model
 - scikit-learn: Machine learning
 - snakemake **?**: Workflow/pipeline
