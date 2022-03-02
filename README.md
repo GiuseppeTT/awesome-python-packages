@@ -7,7 +7,7 @@
 - poetry or pdm: Package management
 - flit **?**: Build/publish package
 - sphinx: Documentation
-- pytest: Test
+- unittest, pytest or hypothesis: Test
 
 ### Pre commit
 - pre-commit: Pre commit hook
@@ -21,7 +21,7 @@
 - pandas: Data frame
 - xarray: Multidimensional data frames
 - scipy: Scientific computing
-- matplotlib or **<better alternative>**: Plotting
+- matplotlib or **<better alternative, tidypolars?>**: Plotting
 - statsmodels: Statistical model
 - scikit-learn: Machine learning
 - snakemake **?**: Workflow/pipeline
